@@ -1,5 +1,7 @@
 # NBAExcelTeams - for Summer 2025
 
+this is a working copy of my repo
+
 It is simply a demonstration for SDE class!
 
 Build with `.\gradlew build`
