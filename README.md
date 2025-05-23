@@ -2,6 +2,8 @@
 
 this is a working copy of my repo
 
+It is simply a demonstration for SDE class
+
 It is simply a demonstration for SDE class!
 
 Build with `.\gradlew build`
